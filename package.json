@@ -1,0 +1,25 @@
+{
+    "name": "watchable-formatter",
+    "version": "1.0.0",
+    "description": "Watch an object or array for changes with simple reformatting.",
+    "license": "MIT",
+    "repository": "illusori/node-watchable-formatter",
+    "author": {
+        "name": "Sam Graham",
+        "email": "npm@illusori.co.uk",
+        "url": "http://www.illusori.co.uk/"
+    },
+    "main": "lib/watchable-formatter.js",
+    "engines": {
+        "node": ">=10"
+    },
+    "scripts": {},
+    "files": [
+        "lib/"
+    ],
+    "keywords": [],
+    "dependencies": {
+        "watchable": "illusori/node-watchable#1.1.1"
+    },
+    "devDependencies": {}
+}
